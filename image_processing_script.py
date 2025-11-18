@@ -7,7 +7,7 @@ def process_image(in_path, out_path, resize=None, grayscale=False, rotate=0, blu
         resample_method = Image.Resampling.LANCZOS
 
         if resize:
-                img = img.(resize,resample_method)
+                img = img.resize(resize,resample_method)
 
         if grayscale:
                 img = img.convert("L")
