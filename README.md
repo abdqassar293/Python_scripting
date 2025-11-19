@@ -1,4 +1,3 @@
-# Python-Automation-Suite
 # 🐍 Multi-Purpose Python Scripts
 
 A collection of **Python automation scripts** designed to handle **security checks**, **email automation**, and **image processing**.  
