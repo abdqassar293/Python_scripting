@@ -9,7 +9,6 @@ import logging
 from email.message import EmailMessage
 from typing import List
 
-#!/usr/bin/env python3
 """
 main.py - simple email sender script
 
