@@ -33,6 +33,6 @@ These scripts aim to simplify common repetitive tasks while providing security a
 | Category | Technology |
 |----------|------------|
 | **Language** | Python 3.10+ 🐍 |
-| **Libraries** | `requests`, `smtplib`, `email`, `pillow` 📦,Beautifulsoap4 |
+| **Libraries** | `requests`, `smtplib`, `email`, `pillow` , `Beautifulsoap4` |
 | **APIs** | Have I Been Pwned API 🔐 |
 | **Automation** | SMTP Email, Image Processing ⚡ |
