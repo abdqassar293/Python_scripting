@@ -12,7 +12,7 @@ The **Python project** consists of three main scripts:
 1. **Password Breach Checker** – Checks if a password has been compromised using the [Have I Been Pwned API](https://haveibeenpwned.com/API/v3) and returns the number of breaches.  
 2. **Email Automation** – Automates sending emails using SMTP, supporting multiple recipients and attachments.  
 3. **Image Automation** – Processes images automatically using the **Pillow** library, such as resizing, filtering, and format conversion.
-4. **Web Scraping** - Scraping Hacker news website with BeutifulSoap library
+4. **Web Scraping** - A Python web scraper using BeautifulSoup to extract and filter Hacker News articles by score, displaying article IDs, scores, and links sorted by popularity.
 
 These scripts aim to simplify common repetitive tasks while providing security and productivity tools for Python users.
 
